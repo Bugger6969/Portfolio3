@@ -1,0 +1,190 @@
+@font-face {
+    font-family: Momcake;
+    src: url(Momcake-Bold.otf);
+}
+body{
+    margin: auto;
+}
+ul{
+    list-style: none;
+    margin: auto;
+    padding: 0;
+}
+.logo h1{
+    margin: auto;
+}
+.navigasi {
+    position: absolute;
+    color: white;
+}
+.topbar{
+    font-family: Momcake;
+    font-size: 28px;
+    display: flex;
+    padding-top: 16px;
+    padding-left: 29px;
+}
+.headline li {
+    margin-bottom: -10px;
+}
+.menu ul{
+    display: flex;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.menu {
+    padding-left: 65px;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    opacity: 75%;
+}
+.menu li{
+    padding-right: 13px;
+    margin-right: 3px;
+    padding-left: 20px;
+    font-family: Momcake;
+    font-size: 25px;
+    color: white;
+}
+.headline-first {
+    background-color: black;
+    width: 100%;
+    display: flex;
+    height: 100vh;
+    background-position: right;
+    background-size: cover
+}
+.headline {
+    color: white;
+    margin-top: 266px;
+    font-family: Momcake;
+    font-size: 102px;
+    padding-left: 345px;
+}
+.text{
+    position: absolute;
+    color: black;
+    opacity: 75%;
+    padding-left: 80px;
+}
+.deskripsi{
+    padding-left: 512px;
+    color: white;
+    font-size: 34px;
+    padding-top: 1px;
+}
+.container {
+    padding: 100px;
+}
+.Box1 {
+    background-image: url(emma\ comeback.png);
+    width: 100%;
+    height: 103vh;
+    background-position: right;
+}
+.Box1 img{
+    margin-bottom: 49px;
+    width: 562px;
+    height: 627.195px;
+    margin-left: 81.4;
+    padding-left: 659px;
+}
+.text1 {
+    text-align: right;
+    margin-top: -522px;
+    margin-left: -504.6px;
+    font-size: 79px;
+    line-height: 0.8;
+    font-family: 'Momcake';
+    padding-right: 631px;
+}
+.text2 {
+    margin-top: -61px;
+    text-align: right;
+    margin-left: -504.6px;
+    padding-right: 631px;
+    font-size: 20px;
+}
+.logo {
+    padding-left: 528px;
+    color: white;
+    padding-top: 203px;
+    font-size: 24px;
+}
+.navigasi img{
+    padding-left: 1268px;
+    height: 30;
+}
+.text3 {
+    padding-left: 528px;
+    padding-top: 185px;
+}
+.Emma {
+    padding-top: -90;
+}
+.Box2{
+    background-color: lightgray;
+    width: 100%;
+    height: 100vh;
+}
+.BGART {
+    font-size: 66px;
+    font-family: Momcake;
+    padding-left: 500px;
+    margin-top: 17px;
+}
+.greyline {
+    background-color: gray;
+    height: 9px;
+    width: 100%;
+}
+.grey1 {
+    background-color: lightgray;
+}
+.column img {
+    height: 340px;
+    width: 447px;
+  }
+.box3 {
+    width: 100%;
+    height: 100vh;
+}
+.Box3 img{
+    height: 793px;
+    width: 1397px;
+}
+.meno ul{
+    font-size: 27;
+    display: flex;
+    font-family:Momcake;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.meno li{
+    padding-right: 13px;
+    margin-right: 3px;
+}
+.ln {
+    padding-left: 357px;
+}
+.fc {
+    padding-left: 357px;
+}
+.lastone {
+    font-size: 69px;
+    font-family: 'Momcake';
+    padding-top: 90;
+    padding-left: 37px;  
+}
+.foot {
+    background-color: black;
+    height: 71px;
+    width: 1400px;
+}
+footer p{
+    padding-left: 500px;
+    font-size: 40;
+    color: white;
+    font-size: 51px;
+    font-family: 'Momcake';
+}
